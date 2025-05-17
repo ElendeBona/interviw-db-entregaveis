@@ -25,39 +25,40 @@ Ainda uma surpresa, a cereja do bolo, para para validar ainda mais meu conhecime
 
 ## 🧱 Orquestração e Estrutura de Diretórios
 
-entregaveis/
-├── airflow/ # DAGs do Airflow
-├── dbt/
-│ ├── models/ # Modelos DBT (staging, marts)
-│ └── dbt_project.yml # Configuração do projeto DBT
-├── análise de dados exploratória / # banco relacional (tabelas)
-    ├── modelagem de dados - UML (conceitual, lógico e físico)
-│   └── star schema
-├── sql_queries/ # SQLs analíticos do desafio
-├── dashboard/ # Capturas ou links dos dashboards
-├── README.md 
-└── demais READMEs.md
+entregaveis/<br>
+├── airflow/ # DAGs do Airflow<br>
+├── dbt/<br>
+│ ├── models/ # Modelos DBT (staging, marts)<br>
+│ └── dbt_project.yml # Configuração do projeto DBT<br>
+├── análise de dados exploratória / # banco relacional (tabelas)<br>
+    ├── modelagem de dados - UML (conceitual, lógico e físico)<br>
+│   └── star schema<br>
+├── sql_queries/ # SQLs analíticos do desafio<br>
+├── dashboard/ # Capturas ou links dos dashboards<br>
+├── README.md <br>
+└── demais READMEs.md<br>
 
 
 ## 📌 Entregáveis
-[README main](README.md)
-[Etapa 1 - Airflow](README_airflow.md)
-[Etapa 2 - DBT](README_dbt.md)
-[Etapa 2.1 - DBT testes](README_dbt_tests.md)
-[Etapa 2.2 - DBT build](<README_dbt build.md>)
-[Etapa 3 - FOCO DESTE PROJETO](README_analise_explor.md)
-[ETAPA 4 - FOCO DESTE PROJETO 1](<README_dash BI.md>)
-[PLUS do Projeto - Agente de IA](inteligencia/README_agente_IA.md)
+[README main](README.md)<br>
+[Etapa 1 - Airflow](README_airflow.md)<br>
+[Etapa 2 - DBT](README_dbt.md)<br>
+[Etapa 2.1 - DBT testes](README_dbt_tests.md)<br>
+[Etapa 2.2 - DBT build](<README_dbt build.md>)<br>
+[Etapa 3 - FOCO DESTE PROJETO](README_analise_explor.md)<br>
+[ETAPA 4 - FOCO DESTE PROJETO 1](<README_dash BI.md>)<br>
+[PLUS do Projeto - Agente de IA](inteligencia/README_agente_IA.md)<br>
 
 
+## 📌 Entregáveis Técnicos
+>[Dashboard](<imagens/power bi dash movie stream elen case.png>)
 
-[Dashboard](<imagens/power bi dash movie stream elen case.png>)
+>[PDF Dashboard](<pdf/Relatório Técnico de Análise de Dados MovieStream Analytics (1).pdf>)
 
-[PDF Dashboard](<pdf/Relatório Técnico de Análise de Dados MovieStream Analytics (1).pdf>)
+>[Case Técnico](<pdf/case elen vox tech movie stream.pdf>)
 
-[Case Técnico](<pdf/case elen vox tech movie stream.pdf>)
+>>[PLUS do Projeto - Criação de Agente de IA especialista em Streaming de Filmes](inteligencia)
 
-[PLUS do Projeto - Criação de Agente de IA especialista em Streaming de Filmes](inteligencia)
 
 ## 🧠 Funções Envolvidas no Projeto
 
