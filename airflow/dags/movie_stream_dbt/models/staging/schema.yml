@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: public    # nome do schema no banco
+    tables:
+      - name: customer  # nome da tabela real no banco
+      - name: payment
+      - name: rental
+      - name: film
+      - name: store       # ✅ adicione esta linha --mart_store_performance
+      - name: staff       # ✅ e esta também (staff também é usada no mart) -- mart_customer_lifetime_value`
+      - name: inventory   # ✅ usada em mart_film_popularity

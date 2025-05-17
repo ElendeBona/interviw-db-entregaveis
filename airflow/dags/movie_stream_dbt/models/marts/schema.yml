@@ -1,0 +1,48 @@
+version: 2
+
+models:
+  - name: mart_customer_lifetime_value
+    description: "Valor total gasto e tempo de vida do cliente"
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+
+      - name: total_spent
+        tests:
+          - not_null
+
+      - name: customer_lifetime_days
+        tests:
+          - not_null
+
+  - name: mart_film_popularity
+    description: "Ranking de filmes mais alugados por mês"
+    columns:
+      - name: title
+        tests:
+          - not_null
+      - name: rental_month
+        tests:
+          - not_null
+      - name: rental_count
+        tests:
+          - not_null
+      - name: film_rank
+        tests:
+          - not_null
+
+  - name: mart_store_performance
+    description: "Performance das lojas em número de locações e receita"
+    columns:
+      - name: store_id
+        tests:
+          - not_null
+          - unique
+      - name: total_rentals
+        tests:
+          - not_null
+      - name: total_revenue
+        tests:
+          - not_null
