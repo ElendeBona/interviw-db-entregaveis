@@ -3,8 +3,8 @@
 ## 🎮 Sobre o Projeto
 
 A **MovieStream Analytics** é uma empresa fictícia especializada em soluções analíticas para o mercado de locação e streaming de filmes. Este projeto tem como objetivo construir uma **pipeline robusta e escalável de dados**, desde a ingestão até a visualização, para suportar decisões estratégicas baseadas em dados reais de uso da plataforma. \
-A orquestradora deste projeto fictício criado pela empresa Vox Tecnologia, aqui chamada apenas de Elen, estará trazendo sua linha de raciocínio para este projeto, seguindo sua expertise como **Analista de Dados e Automações**, e concentrando seus esforços para a tradução de dados em valor para o negócio, ou seja, no processo de ETL, o foco será no LOAD. Ao longo deste projeto, será evidenciado o olhar estratégico e investigativo que um analista de dados e BI precisa adotar em cada etapa de uma pipeline analítica, desde a exploração de dados até a entrega visual e interpretativa dos indicadores.
-Isso não quer dizer que as demais etapas nãp foram feitas, pelo contrário, foram de forma robusca e absorvendo o conhecimento e bagagem como profissional proativa e dinâmica ao mercado, trazido ao longo da minha tragetória. 
+A orquestradora deste projeto fictício criado pela empresa Vox Tecnologia, aqui chamada apenas de Elen, estará trazendo sua linha de raciocínio para este projeto, seguindo sua expertise como **Analista de Dados e Automações**, e concentrando seus esforços para a tradução de dados em valor para o negócio, ou seja, no processo de ETL, o foco será no `LOAD`. Ao longo deste projeto, será evidenciado o olhar estratégico e investigativo que uma analista de dados e BI precisa adotar em cada etapa de uma pipeline analítica, desde a exploração de dados até a entrega visual e interpretativa dos indicadores.
+Isso não quer dizer que as demais etapas não foram feitas, pelo contrário, foram de forma robutca e absorvendo todo o conhecimento e bagagem como profissional proativa e dinâmica ao mercado, trazuzida ao longo da minha tragetória. 
 Ainda uma surpresa, a cereja do bolo, para para validar ainda mais meu conhecimento, compromisso, maturidade perante um desafio novo, criei **um Agente de IA atrelado ao projeto para validar ainda mais meu conhecimento, compromisso, maturidade perante um desafio novo**. 
 
 ## 🚀 Objetivos
@@ -71,7 +71,7 @@ entregaveis/<br>
 
 ## ❓ Alinhamento Inicial com o Cliente
 
-Antes de iniciar qualquer desenvolvimento, é fundamental entender as reais intenções do projeto. Este projeto foi estruturado para abranger todas as frentes de um pipeline  de dados, normalmente executado por um time multidisciplinar de engenharia, análise e visualização. Neste projeto, eu Elen de Bona, concentrei as entregas assumindo a função estratégica de Analista de Dados e BI, com foco em boas práticas e escalabilidade, portanto, é importante ter um alinhamento inicial com o cliente e que segue nos questionamentos a seguir.
+Antes de iniciar qualquer desenvolvimento, é fundamental entender as reais intenções do projeto. Este projeto foi estruturado para abranger todas as frentes de um pipeline  de dados, normalmente executado por um time multidisciplinar de engenharia, análise e visualização. Neste projeto, eu Elen, concentrei as entregas assumindo a função estratégica de Analista de Dados e BI, com foco em boas práticas e escalabilidade, portanto, é importante ter um alinhamento inicial com o cliente e que segue nos questionamentos a seguir.
 
 O papel do Analista de Dados e BI neste projeto é fundamental, pois exige não apenas habilidades técnicas, mas também visão de negócio, pensamento crítico, capacidade de comunicar descobertas e de transformar dados brutos em insights acionáveis e compreensíveis para o cliente final. Essa atuação se destaca por alinhar objetivos estratégicos às possibilidades reais do uso dos dados.
 
@@ -85,7 +85,7 @@ O papel do Analista de Dados e BI neste projeto é fundamental, pois exige não 
 ### Sobre os Dados
 
 5. Existe alguma preocupação com qualidade, atraso ou confiabilidade nos dados?
-6. Quais tabelas ou eventos representam comportamento real do cliente?
+6. Quais tabelas ou eventos representam o comportamento real do cliente?
 7. Há alguma sazonalidade ou comportamento esperado que eu deva considerar?
 
 ### Sobre Entregas e Visualizações 
@@ -123,3 +123,5 @@ Próximo passo >>[Etapa 1 - Airflow](README_airflow.md)
 
 """
 _____
+
+
